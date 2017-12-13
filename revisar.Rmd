@@ -1,0 +1,14 @@
+---
+title: "Latex proof"
+author: "Batrider!!"
+date: "13 de diciembre de 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is LateX
+
+$$\int_{-inf}{0} U(x)+4r dx
