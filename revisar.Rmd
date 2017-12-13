@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is LateX
 
-adsasdasdsa
+Vamos a ver si esto pincha hecho por aldo $\lambda$
 
 $$\int_{-inf}{0} U(x)+4r dx
 
